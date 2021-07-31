@@ -60,9 +60,28 @@
   text-align: center;
 }
 
+.portfolio-caption{
+  text-align: center;
+}
+
 .portfolio-caption-subheading{
   font-family: 'Berlin reg';
   padding-bottom: 40px;
+  text-align: center;
+}
+
+.portfolio-caption-subheading-t{
+  font-family: 'Berlin reg';
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+#tartas, #tartas2, #tartas3, #tartas4{
+  padding: 15px;
+}
+
+.siguiente, .anterior{
+  text-align: center;
 }
 
   h3{
