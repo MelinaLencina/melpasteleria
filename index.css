@@ -84,6 +84,14 @@ h3{
   font-family: 'Berlin reg';
 }
 
+.portfolio-item{
+  text-align: center;
+}
+
+#entrega{
+  padding-bottom: 80px;
+}
+
 #gracias{
   text-align: center;
   border-radius: 100%;

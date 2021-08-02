@@ -76,12 +76,15 @@
   text-align: center;
 }
 
-#tartas, #tartas2, #tartas3, #tartas4{
-  padding: 15px;
+hr{
+  border: 0;
+  height: 3px;
+  background: black
+  background-image linear-gradient(to right, #ccc, black, #ccc);
 }
 
-.siguiente, .anterior{
-  text-align: center;
+#tartas, #tartas2, #tartas3, #tartas4{
+  padding: 15px;
 }
 
   h3{
